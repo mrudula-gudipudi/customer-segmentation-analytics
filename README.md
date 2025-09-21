@@ -3,9 +3,7 @@ Segmentation analytics project integrating diverse datasets into a unified data 
 
 📌 Summary
 
-This project applied segmentation analytics to unify and analyze customer data from a major financial institution, enabling targeted marketing and improved customer experience. By integrating disparate datasets into a centralized platform, we were able to deliver actionable insights that drove measurable business value.
-
-⚠️ Note: Data is anonymized for confidentiality. This README summarizes the methodology and outcomes.
+This project applied segmentation analytics to unify and analyze customer data from Chase bank, enabling targeted marketing and improved customer experience. By integrating disparate datasets into a centralized platform, we were able to deliver actionable insights that drove measurable business value.
 
 
 🎯 Objectives
